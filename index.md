@@ -11,14 +11,9 @@ orcid:[0000-002-2486-348X](https://orcid.org/0000-0002-2486-348X)
 google scholar:[profile](https://scholar.google.com/citations?user=GnYMTI8AAAAJ&hl=en)
 
 ### Contact
-Miquel Simonet<br/>1423 E University Blvd
+Miquel Simonet<br/>1423 E University Blvd<br/>Modern Languages 545<br/>Tucson, Arizona 85721
 
-Modern Languages 545
-
-Tucson, Arizona 85721
-
-E-mail: simonet@email.arizona.edu
-Phone: 520-621-3649
+E-mail: simonet@email.arizona.edu<br/>Phone: 520-621-3649
 
 Here is a link to Miquel's [publications](publications.md)
 
