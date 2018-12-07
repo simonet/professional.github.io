@@ -7,4 +7,17 @@ Miquel received a BA in [Catalan](http://www.uib.cat/lauib/estructura/Departamen
 Miquel is an Associate Editor of [Applied Psycholinguistics](https://www.cambridge.org/core/journals/applied-psycholinguistics) and a member of the editorial board of [Laboratory Phonology](https://www.journal-labphon.org/).
 Miquel's research and scholarship is centered around speech performance and phonological knowledge in bilingual populations. Using techniques of laboratory phonology, acoustic and auditory phonetics, and psycholinguistics, he conducts experimental research on bilingualism and adult second language acquisition, speech production and perception, and lexical processing.
 
+orcid:[0000-002-2486-348X](https://orcid.org/0000-0002-2486-348X)
+google scholar:[profile](https://scholar.google.com/citations?user=GnYMTI8AAAAJ&hl=en)
+
+# Contact
+Miquel Simonet
+1423 E University Blvd
+Modern Languages 545
+Tucson, Arizona 85721
+
+E-mail: simonet@email.arizona.edu
+Phone: 520-621-3649
+
 Here is a link to Miquel's [publications](publications.md)
+
