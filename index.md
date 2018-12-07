@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/simonet/simonet.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am an Associate Professor of [Hispanic Linguistics] (https://spanish.arizona.edu/undergrad/hispanic-linguistics) at the [University of Arizona] (https://www.arizona.edu/). I am affiliated with the interdisciplinary PhD programs in Cognitive Science ([CogSci] (https://www.cogsci.arizona.edu/content/welcome-cognitive-science)) and Second Language Acquisition and Teaching ([SLAT] (https://slat.arizona.edu/)).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I conduct research in the following fields: bilingualism and adult second language acquisition, phonetics & phonology, speech production and perception, lexical processing.
 
 ### Markdown
 
