@@ -10,11 +10,8 @@ Miquel's research and scholarship is centered around speech performance and phon
 orcid:[0000-002-2486-348X](https://orcid.org/0000-0002-2486-348X)
 google scholar:[profile](https://scholar.google.com/citations?user=GnYMTI8AAAAJ&hl=en)
 
-# Contact
-Miquel Simonet
-
-
-1423 E University Blvd
+### Contact
+Miquel Simonet<br/>1423 E University Blvd
 
 Modern Languages 545
 
