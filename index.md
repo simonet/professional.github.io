@@ -13,7 +13,7 @@ google scholar:[profile](https://scholar.google.com/citations?user=GnYMTI8AAAAJ&
 ### Contact
 Miquel Simonet<br/>1423 E University Blvd<br/>Modern Languages 545<br/>Tucson, Arizona 85721
 
-E-mail: simonet@email.arizona.edu<br/>Phone: 520-621-3649
+E-mail: simonet@email.arizona.edu<br/>Phone: +1 (520) 621 3649
 
 Here is a link to Miquel's [publications](publications.md)
 
